@@ -1,3 +1,14 @@
+// Check the string that we have its
+// Anagram or not__________________#
+
+// Step 1: Create a function = (str1,str2)
+// Step 2: Check both length equal or not if not equal 
+// return false otherwise start to making logic______#
+
+// Step 3: create a map for counting element || str1 = 'deepak' {d:1,e:2,p:1,k:1}
+
+// let's see next process...!
+
 let anagram = (s1, s2) => {
     if (s1.length != s2.length) {
         return false;
@@ -21,16 +32,7 @@ console.log(anagram('Bunty', 'nuByt'))
 
 
 
-// Check the string that we have its
-// Anagram or not__________________#
 
-
-// Step-> create function = (str1,str2)
-// Step-> str1.length and str2.length equal or not
-// Step-> check str1 = 'deepak' {d:1,e:2,p:1,k:1}
-// Map = {key:value}
-  
-  
   
   
    

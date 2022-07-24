@@ -6,7 +6,7 @@
 // itrate the n number of element till (n-1), after that
 // you will define the mininum element that is outer loop 
 // i and find the greatest element from inner loop that
-// iterate from i+1 if findnreturn minimum element is j
+// iterate from i+1 if find return minimum element is j
 
 // Otherwise it swap the i element with 
 // min.....!
